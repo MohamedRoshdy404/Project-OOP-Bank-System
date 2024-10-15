@@ -1,0 +1,2 @@
+﻿  OOP.cpp
+C:\Users\Programming\source\repos\OOP\OOP\OOP.cpp : fatal error C1041: cannot open program database 'C:\Users\Programming\source\repos\OOP\OOP\x64\Debug\vc143.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS

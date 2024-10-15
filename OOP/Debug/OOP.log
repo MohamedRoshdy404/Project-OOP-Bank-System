@@ -1,0 +1,36 @@
+﻿  OOP.cpp
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(56,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(87,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(114,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(140,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(154,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(173,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(193,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(198,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(220,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(241,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(262,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(299,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(324,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(353,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(372,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsString.h(497,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsUtil.h(64,1): warning C4102: 'defualt': unreferenced label
+C:\Users\Programming\source\repos\OOP\OOP\clsUtil.h(288,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsUtil.h(299,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Programming\source\repos\OOP\OOP\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Programming\source\repos\OOP\OOP\clsUser.h(26): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\Programming\source\repos\OOP\OOP\clsInputValidate.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(373,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsAddNewClientScreen.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(312): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(376): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\Programming\source\repos\OOP\OOP\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOP.vcxproj -> C:\Users\Programming\source\repos\OOP\Debug\OOP.exe

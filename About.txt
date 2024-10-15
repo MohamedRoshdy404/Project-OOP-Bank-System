@@ -1,0 +1,23 @@
+
+==============================
+### العربية ###
+==============================
+
+========================================================================
+
+نبذة عن النظام المصرفي مميزات النظام مبنى علي مبادئ "البرمجة كائنية التوجة" متقسم علي شكل كلاسات كل كلاس متسقل بذاته وفي النهاية بيتم تجبيعهم مثل المكعبات لبناء النظام البنكي ايضا الكود مكتوب بطريقة احترافية مما يتيح السهولة في قراءة الكود والتعديل عليه . الكود مرن جدا ويتيح لك المرونة في التطوير المستقبلى مبني علي سياسة فرق تسد يحتوي على صفحات الإدارة وصفحات العملاء صفحات الإدارة يمكنك عرض جميع الإداريين في النظام مع بياناتهم وصلاحياتهم يمكنك إضافة مستخدم جديد وحذف مستخدم وتعديل بيانات المستخدم وصلاحياته والبحث عن مستخدم باستخدام اسم المستخدم الخاص به صفحات العملاء:
+عرض قائمة بجميع العملاء وبياناتهم، إضافة عميل، حذف عميل، تعديل بيانات العميل، البحث عن عميل، عملية السحب، عملية الإيداع، عرض قائمة الرصيد.
+وتسجيل الدخول والخروج من البرنامج
+
+========================================================================
+
+==============================
+### English ###
+==============================
+========================================================================
+
+About the banking system Features of the system Built on the principles of "Object Oriented Programming" Divided into classes, each class is independent and in the end they are collected like cubes to build the banking system Also, the code is written in a professional manner, which makes it easy to read and modify the code. The code is very flexible and gives you flexibility in future development Built on the divide and conquer policy Contains management pages and customer pages Management pages You can view all administrators in the system with their data and permissions You can add a new user, delete a user, modify user data and permissions, and search for a user using his username Customer pages:
+Display a list of all customers and their data, add a customer, delete a customer, modify customer data, search for a customer, withdrawal process, deposit process, display the balance list.
+And log in and out of the program
+
+========================================================================
