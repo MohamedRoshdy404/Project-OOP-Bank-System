@@ -24,17 +24,25 @@ C:\Users\Programming\source\repos\OOP\OOP\clsUser.h(199,5): warning C4240: nonst
 C:\Users\Programming\source\repos\OOP\OOP\clsUser.h(26): message : see declaration of 'clsUser::stLoginRegisterRecord'
 C:\Users\Programming\source\repos\OOP\OOP\clsInputValidate.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\Programming\source\repos\OOP\OOP\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(207,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(152): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
 C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(373,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
 C:\Users\Programming\source\repos\OOP\OOP\clsAddNewClientScreen.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 C:\Users\Programming\source\repos\OOP\OOP\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 C:\Users\Programming\source\repos\OOP\OOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsTransferScreen.h(48,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Programming\source\repos\OOP\OOP\clsTransferScreen.h(53,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(312): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
 C:\Users\Programming\source\repos\OOP\OOP\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
-C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(376): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
-  All 678 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\Programming\source\repos\OOP\OOP\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  734 of 748 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   OOP.vcxproj -> C:\Users\Programming\source\repos\OOP\Release\OOP.exe
